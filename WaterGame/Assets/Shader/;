@@ -1,0 +1,42 @@
+listNode * next = head->next;
+head->next = new_head;
+new_head = head;
+
+
+pre_head = head;
+
+modify_list_tail->next = head;
+
+change_len--;
+
+pre_head->next = new_head;
+
+result= modify_list_tail->next;
+
+node_set.insert(headA)；
+
+node_set.find(headB) != node_set.end();
+
+headB = headB->next;
+
+len++;
+delta--;
+headA == headB；
+
+
+node_set.find(head) != node_set.end()
+
+node_set.insert(head)
+
+return null;
+
+!Q.empty()&&p < dis
+p += Q.top();
+result++;
+Q.empty()&&p<dis //油箱列表空了 当前油不满足 到下个加油站的距离
+p -= dis;
+
+head == NULL
+
+vec.push_back(head->val);
+add_to_vector(head->next,vec);
